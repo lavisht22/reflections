@@ -1,0 +1,2 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+A. A new git repository is created and we need to add files to it.
