@@ -5,3 +5,17 @@ Q. How is the staging area different from the working directory and
 the repository? What value do you think it offers?
 A. Staging Area includes all the files that are going to be changed
 during the course of development of applications.
+
+Q. How do the diagrams help you visualize the branch structure?
+A. Diagrams basically helps us understand where did the program grew!
+You can visualise the experimental features along witht the main project going on.
+
+Q. What are some situations when branches would be helpful in keeping 
+your history organized? How would branches help?
+A. Branches would allow me to create experimental features before actually 
+implementing them into the actual product.
+
+Q. What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+A. Always manually merging would involve a lot of work, automatic merging 
+handles most of the basic stuff and leaves the advanced stuff to you!
